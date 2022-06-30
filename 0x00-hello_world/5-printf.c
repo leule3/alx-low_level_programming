@@ -1,13 +1,14 @@
-#include <stdio.h>
+nclude <stdio.h>
 
-(/
+/
+
  * main - Entry point
  *
  *  * Return: Always 0 (success)
  *
- */
+ *   */
 
-int main(void)
+ int main(void)
 
 {
 
@@ -16,3 +17,4 @@ int main(void)
 	return (0);
 
 }
+
