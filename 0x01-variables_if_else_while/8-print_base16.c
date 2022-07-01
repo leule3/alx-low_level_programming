@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- *prints in base 16 in lower case
+ *main- prints in base 16 in lower case
  *and then a new line
  *then Returns: 0 succesfully
  */
-int main(void)
+int void main(void)
 {
 int n;
 char ch;
