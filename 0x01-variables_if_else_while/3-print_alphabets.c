@@ -2,15 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main- felege
- * Return:0 cha
+ * main- embebatat
+ * Return:0
  */
 int main(void)
 {
-char ch;
-for (ch = 'a'; ch <= 'z'; ch++)
+int ch;
+for (ch = 97; ch <= 122; ch++)
 {
-if (ch != 'q' && ch != 'e')
 putchar(ch);
 }
 putchar(10);
