@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  *main- felege sewyew
  *Return: this shit
  */
