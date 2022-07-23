@@ -1,1 +1,1 @@
-#creation of  static library
+#creat static libraries 
